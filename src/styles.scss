@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import 'main-style.scss';
+@import '../node_modules/bulma/bulma.sass';
+
+
+body{
+    background-color: rgb(134, 241, 233);
+}
